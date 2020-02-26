@@ -1,5 +1,5 @@
 ## InteractiveAnimation (Briefly introduced)
- This project was prepared for us to graduate from university. (Dissertation)
+ *This project was prepared for us to graduate from university. (Dissertation)*
 
  The aim of project is to contribute educative to children's time of watching a cartoon. 
  The children's age should be between 3 and 6.
