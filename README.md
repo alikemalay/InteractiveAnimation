@@ -10,11 +10,11 @@
  ![animation](https://user-images.githubusercontent.com/61467781/75336036-7daebc00-589b-11ea-8607-8ca403942061.png)
  
 
- Controller device : Anroid Phone
+ **Controller device : Anroid Phone**
  
- Watching device   : Windows PC - 1
+ **Watching device   : Windows PC - 1**
  
- Server device     : Windows PC - 2
+ **Server device     : Windows PC - 2**
 
  We developed all of the needed applications on Unity. 
  We are needed to an application, which runs on Android phones, that provides the user to input something that is answers for asked questions while watching animation.
