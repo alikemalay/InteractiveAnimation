@@ -4,7 +4,7 @@
  The aim of project is to contribute educative to children's time of watching a cartoon. 
  The children's age should be between 3 and 6.
  
- We made animations using VYOND that provides making free animation.
+ We made animations using **VYOND** that provides making free animation.
  
  
  ![animation](https://user-images.githubusercontent.com/61467781/75336036-7daebc00-589b-11ea-8607-8ca403942061.png)
